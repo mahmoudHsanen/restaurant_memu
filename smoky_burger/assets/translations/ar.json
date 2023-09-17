@@ -1,0 +1,59 @@
+{   
+    "LoginView": {
+        "smokyBurger": "برجر مدخن",
+        "email":"البريد الإلكتروني",
+        "password":"كلمة المرور",
+        "errorPassword":"!كلمة المرور لا تطابق",
+        "logIn":"تسجيل دخول",
+        "signUp":"اشتراك"
+        
+    },
+    "signUpView":{
+        "smokyBurger": "برجر مدخن",
+        "fullName":"الاسم بالكامل",
+        "email": "البريد الإلكتروني",
+        "password": "كلمة المرور",
+        "confirmPassword":"تأكيد كلمة المرور",
+        "errorPassword":"!كلمة المرور لا تطابق",
+        "signUp":"اشتراك"
+    },
+    "MenuView":{
+        "menu":"القائمة",
+        "detilsCheeseBurger":"- 2 قطعة لحم بقري. \n- جبنة أمريكية. \n- مخلل. \n- بصل. \n- طماطم.",
+        "detilsSmachBurger":"- سماش برجر. \n- خس. \n- مخلل. \n- كاتشب . \n- طماطم.",
+        "detilsSmokyBurger":"- برجر مدخن \n- جبنة أمريكية.\n- مخلل. \n- بصل. \n- طماطم.",
+        "detilsChiliBurger":"- قطعه لحم. \n- جبنة أمريكية. \n- طماطم.",
+        "detilsMeatBuger":"- 2 قطعة لحم بقري.. \n- جبنة أمريكية. \n- مخلل. \n- بصل. \n- كاتشب.",
+        "detilsBarbecueBurger":"- 2 قطعة لحم بقري.. \n- جبنة أمريكية. \n- مخلل. \n- بصل. \n- صوص الباربكيو.",
+        "detilsDoubleBurger":"- 2 قطعة لحم بقري.. \n- جبنة أمريكية. \n- مخلل. \n- بصل. \n- طماطم.",
+        "detilsGreenBurger":"- قطعه لحم . \n- مخلل. \n- بصل. \n- خس.",
+        
+        "cheeseBurger":"برجر الجبن",
+        "smachBurger":"سماش برجر",
+        "smokyBurger":"سموكي برجر",
+        "chiliBurger":" شيلي برجر ",
+        "meatBuger":"برجر اللحم",
+        "barbecueBurger":"باربكيو برجر",
+        "DoubleBurger":"دبل برجر",
+        "GreenBurger":"جرين برجر"
+    },
+    "BestSeller":{
+        "bestSeller":"الأكثر مبيعًا",
+        "cheeseBurger":"برجر الجبن",
+        "smokyBurger": "سموكي برجر",
+        "doubleBurger":"دبل برجر",
+        "greenBurger":"جرين برجر"
+    },
+    "Profile":{
+        "language":"اللغة",
+        "arabic":"العربية",
+        "logOut":"تسجيل الخروج"
+    },
+    "BottomNavBar":{
+        "menu":"القائمة",
+        "bestFoods":"أفضل الأطعمة",
+        "profile":"الملف الشخصي"
+    }
+
+
+}
