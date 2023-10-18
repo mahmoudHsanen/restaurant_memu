@@ -1,0 +1,61 @@
+{
+    "LoginView": {
+        "smokyBurger": "Smoky Burger",
+        "email": "Email",
+        "password": "Password",
+        "errorPassword": "Password dont match!",
+        "logIn": "Log in",
+        "signUp": "Sign UP"
+    },
+    "signUpView":{
+        "smokyBurger": "Smoky Burger",
+        "fullName":"Full Name",
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword":"Confirm Password",
+        "errorPassword": "Password dont match!",
+        "signUp": "Sign UP"
+    },
+    "MenuView":{
+        "menu":"Menu",
+        "detilsCheeseBurger":"- 2 Beef Patties. \n- American Cheese. \n- Pickle. \n- Onion. \n- Tomatoes.",
+        "detilsSmachBurger":"- Smach Burger. \n- Lettuce \n- Pickle. \n- Ketchup . \n- Tomatoes.",
+        "detilsSmokyBurger":"- Smoky Burger. \n- American Cheese. \n- Pickle. \n- Onion. \n- Tomatoes.",
+        "detilsChiliBurger":"- Beef PattY. \n- American Cheese. \n- Tomatoes.",
+        "detilsMeatBuger":"- 2 Beef Patties. \n- American Cheese. \n- Pickle. \n- Onion. \n- Ketchup.",
+        "detilsBarbecueBurger":"- 2 Beef Patties. \n- American Cheese. \n- Pickle. \n- Onion. \n- Barbecue Sauce.",
+        "detilsDoubleBurger":"- 2 Beef Patties. \n- American Cheese. \n- Pickle. \n- Onion. \n- Tomatoes.",
+        "detilsGreenBurger":"- Beef PattY. \n- Pickle. \n- Onion. \n- Lettuce.",
+
+        "cheeseBurger":"Cheese Burger",
+        "smachBurger":"Smach Burger",
+        "smokyBurger":"Smoky Burger",
+        "chiliBurger":"Chili Burger",
+        "meatBuger":"Meat Buger",
+        "barbecueBurger":"Barbecue Burger",
+        "DoubleBurger":"Double Burger",
+        "GreenBurger":"Green Burger"
+
+
+
+    },
+    "BestSeller":{
+        "bestSeller":"Best Seller",
+        "cheeseBurger":"Cheese Burger",
+        "smokyBurger": "Smoky Burger",
+        "doubleBurger":"double Burger",
+        "greenBurger":"green Burger"
+    },
+    "Profile":{
+        "language":"Language",
+        "arabic":"Arabic",
+        "logOut":"Log Out"
+    },
+    "BottomNavBar":{
+        "menu":"Menu",
+        "bestFoods":"Best Foods",
+        "profile":"Profile"
+    }
+
+
+}
